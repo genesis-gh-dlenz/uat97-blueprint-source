@@ -1,0 +1,8 @@
+blueprint:
+  name: uat97_promote_check
+  version: '1.0'
+  description: UAT97 CONTENT V1
+phases:
+  phase_1:
+    name: Phase One
+    description: UAT97 CONTENT V1
